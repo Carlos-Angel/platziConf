@@ -1,7 +1,5 @@
 # [PlatziConf](https://carlos-angel.github.io/platziConf/ "Heading link")
 
----
-
 ### Descripción:
 
 **Pagina web de un sitio de conferencias utilizando el framework de css Bootstrap 4.5.3**
