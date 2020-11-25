@@ -1,4 +1,4 @@
-# [PlatziConf](https://carlos-angel.github.io/platziConf/ "Heading link")
+# [PlatziConf](https://carlos-angel.github.io/platziConf/ "ver sitio")
 
 ### Descripción:
 
